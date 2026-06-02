@@ -1,0 +1,13 @@
+def ipunt_number():
+
+	while(1):
+		try:
+			entrada = int(input())
+			break
+		except ValueError:
+			print('Valor errado')
+	return entrada
+
+if __name__ == '__main__':
+	input_number()
+
