@@ -1,13 +1,29 @@
-def ipunt_number():
+a = 'a'
+b = 14
+i = 17.2
+o = True
 
-	while(1):
-		try:
-			entrada = int(input())
-			break
-		except ValueError:
-			print('Valor errado')
-	return entrada
 
-if __name__ == '__main__':
-	input_number()
+dict = []
 
+dict.append
+
+break
+
+
+
+while(1):
+	try:
+		a = int(input())
+		break
+	except ValueError:
+		print('Valor errado')
+
+beecrowd sintaxe
+
+oo -> pol
+
+chat bot open ai
+
+
+qua 
